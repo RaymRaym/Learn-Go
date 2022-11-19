@@ -14,4 +14,6 @@ func main() {
 	for i := 0; i < 3; i++ {
 		fmt.Println(nums2[i])
 	}
+
+	fmt.Println(123123)
 }
