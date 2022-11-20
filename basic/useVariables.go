@@ -49,4 +49,11 @@ func main() {
 	fmt.Println(n6)
 	fmt.Printf("ss: %v\n", ss)
 
+	// error
+	// var a int8 = 234
+	// println(a)
+
+	var b int8 = 15
+	println(b)
+
 }
