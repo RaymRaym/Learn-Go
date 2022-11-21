@@ -31,4 +31,7 @@ func main() {
 	fmt.Printf("bs: %v\n", bs)
 	fmt.Printf("rs: %v\n", rs)
 
+	fmt.Println("1" < "2")
+	fmt.Println("1" > "2")
+
 }
